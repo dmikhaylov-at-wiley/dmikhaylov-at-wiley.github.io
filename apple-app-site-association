@@ -1,0 +1,9 @@
+{
+	"applinks": {
+    	"apps": [],
+    	"details": [{
+        	"appID": "M9TF5PSPE8.com.wiley.wel.dev",
+        	"paths": ["/mobile/alexa/*"]
+    	}]
+	}
+}
